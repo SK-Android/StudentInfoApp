@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Student Info App</string>
+    <string name="enter_name">Enter Name:</string>
+    <string name="enter_roll_number">Enter Roll Number:</string>
+    <string name="display">Display</string>
+    <string name="save">Save</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
